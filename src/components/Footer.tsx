@@ -53,7 +53,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a 
-                href="https://www.linkedin.com/in/bala-teja-vempati-4b4244273/" 
+                href="https://www.linkedin.com/in/bala-teja-vempati/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg bg-background border border-border hover:border-primary hover:bg-primary/10 transition-all duration-300"
