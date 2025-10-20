@@ -122,10 +122,10 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold mb-1 text-foreground">Email</h3>
                   <a 
-                    href="mailto:contact@example.com" 
+                    href="mailto:vempatibalateja98@gmail.com" 
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    contact@example.com
+                    vempatibalateja98@gmail.com
                   </a>
                 </div>
               </div>
@@ -139,12 +139,12 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold mb-1 text-foreground">GitHub</h3>
                   <a 
-                    href="https://github.com" 
+                    href="https://github.com/balateja12" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    github.com/yourprofile
+                    github.com/balateja12
                   </a>
                 </div>
               </div>
@@ -158,12 +158,12 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-semibold mb-1 text-foreground">LinkedIn</h3>
                   <a 
-                    href="https://linkedin.com" 
+                    href="https://www.linkedin.com/in/bala-teja-vempati-4b4244273/" 
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    linkedin.com/in/yourprofile
+                    linkedin.com/in/bala-teja-vempati-4b4244273
                   </a>
                 </div>
               </div>
